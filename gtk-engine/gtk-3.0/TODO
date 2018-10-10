@@ -5,4 +5,5 @@ Current issues (blockers are marked with *):
 	* Text in keyboard layout indicator is green
 	- Tabs in notebooks could avoid having bold line below them
 	- In upper Mate panel background of menu header has slightly different color
+	- In appearance preferences there's no line between grey and white background
 
