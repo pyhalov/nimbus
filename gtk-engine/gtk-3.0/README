@@ -1,0 +1,10 @@
+# This code is copied from Solaris-11 B00merang theme.
+https://github.com/B00merang-Project/Solaris-11
+
+Imported as of commit 
+
+commit f19be9c820ff24aa2a9a3847793fa3ba5fecefad (origin/master, origin/HEAD, master)
+Author: Christian Medel <cmedelahumada@gmail.com>
+Date:   Mon May 21 09:57:27 2018 -0400
+
+    Fix desktop icon contrast issue
