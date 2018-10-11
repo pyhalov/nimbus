@@ -2,7 +2,6 @@ Current issues (blockers are marked with *):
 	* Buttons on lower Mate panel are not framed (even when active)
 	- In pluma there's white background after last open tab
 	- We should try to avoid dependency on adwaita
-	* Text in keyboard layout indicator is green
 	- Tabs in notebooks could avoid having bold line below them
 	- In upper Mate panel background of menu header has slightly different color
 	- In appearance preferences there's no line between grey and white background
